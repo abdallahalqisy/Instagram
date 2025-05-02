@@ -1,0 +1,11 @@
+flutter_native_splash:
+  color: "#000000"
+  image: assets/image/splash_logo.jpg
+  branding: assets/image/my_logo.png
+  branding_mode: bottom
+
+  android_12:
+  
+    image: assets\image\logo_f.png
+    color: "#000000"
+    branding: assets/image/my_logo.png
