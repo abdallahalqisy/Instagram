@@ -1,6 +1,6 @@
-# simpleinstagram
+# Simple Instagram App
 
-A new Flutter project.
+
 
 ## Getting Started
 
