@@ -1,16 +1,38 @@
-# Simple Instagram App
+# 📸 Instagram Profile Viewer App
+
+A Flutter application that allows users to view detailed information of any public Instagram account by simply entering the username. The app mimics Instagram's native experience with smooth UI and interactive components.
+
+---
+
+## ✨ Features
+
+- 🚀 Beautiful splash screen
+- 🔎 Search for any Instagram user by username
+- 👤 View:
+  - Profile picture (tap to zoom in, like Instagram)
+  - Username and bio
+  - Number of followers, following, and total posts
+- 🖼️ Display photos and videos from the account
+- 📣 Show posts where the user is mentioned
+- 🎨 Instagram-style design and layout
+
+---
+
+## 📱 Screenshots
+
+> *Add actual screenshots from your app:*
+> 
+> Place images in `assets/screens/` and reference them below:
+
+```markdown![Screenshot_1745871287](https://github.com/user-attachments/assets/294faf29-4614-4369-9a96-3e12ee5fa8df)
+
+![Splash Screen](https://github.com/user-attachments/assets/3cfb8888-c1ab-4af0-850c-2fcf497ff3a1)
+![Home Page]([assets/screens/profile.png](https://github.com/user-attachments/assets/51b778f2-04e1-412a-baa9-d89e85c3ddf2))
+
+![Profile Page]([assets/screens/profile.png](https://github.com/user-attachments/assets/80cfea20-bddb-487c-a6c8-17156ba6e8ca))
+![Followers Page]((https://github.com/user-attachments/assets/795ebd91-c6b1-418d-a537-21fe3319c3f6)
+
+![Media Feed](https://github.com/user-attachments/assets/a60bdbe5-fd36-4d4c-afc6-909f396b1aa9)
 
 
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
