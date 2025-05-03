@@ -20,11 +20,7 @@ A Flutter application that allows users to view detailed information of any publ
 
 ## 📱 Screenshots
 
-> *Add actual screenshots from your app:*
-> 
-> Place images in `assets/screens/` and reference them below:
 
-```markdown![Screenshot_1745871287](https://github.com/user-attachments/assets/294faf29-4614-4369-9a96-3e12ee5fa8df)
 
 ![Splash Screen](https://github.com/user-attachments/assets/3cfb8888-c1ab-4af0-850c-2fcf497ff3a1)
 ![Home Page]([assets/screens/profile.png](https://github.com/user-attachments/assets/51b778f2-04e1-412a-baa9-d89e85c3ddf2))
@@ -35,4 +31,5 @@ A Flutter application that allows users to view detailed information of any publ
 ![Media Feed](https://github.com/user-attachments/assets/a60bdbe5-fd36-4d4c-afc6-909f396b1aa9)
 
 
+![Screenshot_1746212273](https://github.com/user-attachments/assets/e367e669-3820-4ce2-b669-8cb0c402eff8)
 
