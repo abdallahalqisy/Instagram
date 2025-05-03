@@ -19,6 +19,7 @@ A Flutter application that allows users to view detailed information of any publ
 ---
 
 ## 📱 Screenshots
+![Screenshot 2025-05-03 170636](https://github.com/user-attachments/assets/14804c06-d0ae-4543-94e6-49bd2339bb44)
 
 
 
